@@ -1,0 +1,25 @@
+/* Some common Styles */
+.org-colour{
+    color: #FD6E0A;
+}
+.btn-style{
+    border-radius: 5px;
+    background: #FD6E0A;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 51px;
+}
